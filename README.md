@@ -1,16 +1,17 @@
-## Hi there 👋
+# Derara Beyena
 
-<!--
-**derara-data/derara-data** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Data Analyst
 
-Here are some ideas to get you started:
+## Skills
+- SQL
+- Power BI
+- Excel
+- Data Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Portfolio Projects
+- Logistics Analytics Dashboard
+- Sales Analytics Dashboard
+- HR Workforce Analytics Dashboard
+
+## Certifications
+- Ivy Tech Data Analytics Certificate
