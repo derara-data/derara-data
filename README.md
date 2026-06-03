@@ -1,12 +1,13 @@
 # Derara Beyena
 
-Aspiring Data Analyst
+Aspiring Data Analyst | SQL | Power BI | Excel
 
 ## Skills
 - SQL
 - Power BI
 - Excel
 - Data Visualization
+- Data Analysis
 
 ## Portfolio Projects
 - Logistics Analytics Dashboard
@@ -15,3 +16,8 @@ Aspiring Data Analyst
 
 ## Certifications
 - Ivy Tech Data Analytics Certificate
+
+## Currently Learning
+- Advanced SQL
+- Power BI
+- Business Analytics
